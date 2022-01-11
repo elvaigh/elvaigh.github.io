@@ -216,6 +216,15 @@ h1, h2, h3, h4, h5, h6 {
   z-index: 2;
   min-width: 300px;
 }
+
+#hero .hero-twitter {
+  position: relative;
+  z-index: 2;
+  display: flex; 
+  justify-content: flex-end;
+  min-width: 300px;
+  margin-left: 1200px;
+}
 #hero h1 {
   margin: 0 0 10px 0;
   font-size: 64px;
