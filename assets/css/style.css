@@ -226,20 +226,6 @@ h1, h2, h3, h4, h5, h6 {
 
 }
 
-@media screen and (max-width : 1920px){
-  #hero .hero-twitter{
-    margin-left: 1000px;
-    width: 500px;
-    height: 500px;
-  }
-}
-@media screen and (max-width : 906px){
-  #hero .hero-twitter{
-    margin-left: 100px;
-    width: 100px;
-    height: 100px;
-  }
-}
 
 #hero h1 {
   margin: 0 0 10px 0;
